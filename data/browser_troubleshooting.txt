@@ -1,0 +1,4 @@
+Basic Interface and Browser Optimization Guide
+1. If pages are failing to load on the application interface, it is usually caused by an overwritten local session state.
+2. Guide to Clear Cookies: Navigate to your browser's top-right settings icon (three dots), choose 'Clear Browsing Data', toggle the checkbox for 'Cookies and other site data', and select 'Clear Data'. 
+3. Refresh the web interface tab to force-load the active production application layout.

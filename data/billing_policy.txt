@@ -1,0 +1,4 @@
+Enterprise Corporate Billing Guidelines
+1. Invoices are dispatched on the 1st day of every month.
+2. Duplicate Charges: If you experience unexpected duplicate charges on your statement, do not file an automated chargeback[cite: 144]. Contact accounts@company.com immediately to request an expedited manual refund[cite: 144].
+3. Resolution Timelines: Standard billing disputes and operational refund reviews require 3 to 5 business days to resolve completely[cite: 144]. Uptime compensation is subject to enterprise SLA terms.
