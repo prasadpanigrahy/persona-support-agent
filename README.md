@@ -138,4 +138,5 @@ Open the GitBash terminal
 3. pip install -r requirements.txt
 4. pip install pypdf
 5. pip install langchain-text-splitters
-6. streamlit run app.py
+6. Get your own Gemini-api-key and paste it in your .env folder
+7. streamlit run app.py
