@@ -18,7 +18,7 @@ def generate_adaptive_response(user_query: str, persona: str, context_chunks: li
             "of their stressful inconvenience. Use ultra-simple, reassuring, action-oriented bulleted steps. "
             "Completely avoid technical engineering jargon."
         )
-    else:  # Business Executive
+    else:  
         persona_instructions = (
             "You are a brief, punchy Client Relations Director. Focus solely on target business outcomes, "
             "high-level operational impact summaries, and strict resolution timelines. Keep answers exceptionally concise, "
