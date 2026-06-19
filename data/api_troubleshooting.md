@@ -1,5 +1,5 @@
 # Developer API Support Documentation
-[cite_start]All incoming developer requests must include a valid Bearer Token in the HTTP Authorization header[cite: 144].
+All incoming developer requests must include a valid Bearer Token in the HTTP Authorization header.
 
 ### Header Layout Specifications:
 - `Authorization`: `Bearer <YOUR_SECRET_KEY>`
